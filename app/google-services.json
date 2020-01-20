@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600156306669",
+    "firebase_url": "https://authenticatorapp-75e51.firebaseio.com",
+    "project_id": "authenticatorapp-75e51",
+    "storage_bucket": "authenticatorapp-75e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600156306669:android:302740146b123c3a1920e4",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600156306669-ii59fpbisfb55qada156kqadb68mi1ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.smallacademy.authenticatorapp",
+            "certificate_hash": "1d70489380cb91a3938eabfb8b821a05c391e38f"
+          }
+        },
+        {
+          "client_id": "600156306669-vfo7nr6fds16pjcnih8knacivfcvvis1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzrke18PvF1NRs4QDooGUcQ4F-v9ZH_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600156306669-vfo7nr6fds16pjcnih8knacivfcvvis1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
